@@ -49,8 +49,8 @@ PRIVATE_KEY=your_private_key
 
 ```bash
 npx hardhat run scripts/deploy.js --network rinkeby
-Catat address contract Union & UnionPool
 ```
+- Catat address contract Union & UnionPool
 
 ### 2. Backend Listener & API
 
