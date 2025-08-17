@@ -1,6 +1,6 @@
 # Union Project (UNO)
 
-**Custom token UNION (UNO)** dengan fitur:  
+**Web3 App dengan custom token UNION (UNO)** dengan fitur:  
 - Faucet dengan batasan klaim dan cap  
 - Merge deposit dengan reward harian (halving & doubling otomatis)  
 - Referral system 10% reward  
