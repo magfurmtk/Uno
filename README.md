@@ -1,6 +1,6 @@
 # Uno
 
-# Union (UNO) Token & UnionPool
+# Union Project
 
 **Custom token UNION (UNO)** dengan fitur:  
 - Faucet dengan batasan klaim dan cap  
