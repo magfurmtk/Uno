@@ -1,4 +1,4 @@
-# Union Project UNO
+# Union Project (UNO)
 
 **Custom token UNION (UNO)** dengan fitur:  
 - Faucet dengan batasan klaim dan cap  
